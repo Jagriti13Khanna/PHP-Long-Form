@@ -1,0 +1,71 @@
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+fieldset,
+input,
+select {
+    margin-bottom: 0.5rem;
+}
+
+p {
+    padding-top: 0.5rem;
+}
+
+/* table styling */
+  
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* body {
+  font-family: 'Inter', sans-serif;
+  color: #343a40;
+  line-height: 1;
+  display: flex;
+  justify-content: center;
+} */
+
+table {
+    max-width: 90%;
+    margin: 0 auto;
+  /* width: 800px; */
+  border-right-color: #ffffff;
+  /* margin-top: 100px; */
+  font-size: 16px;
+  /* /* border: 1px solid #343a40; */
+  border-collapse: collapse; 
+}
+
+h1 {
+    padding: 3rem 0rem;
+    text-align: center;
+    font-size: 3rem;
+}
+
+th, td {
+  /* border: 1px solid #343a40; */
+  padding: 1rem;
+  text-align: left;
+  font-size: 1.25rem;
+}
+
+tr th {
+  color: rgb(24, 4, 77);
+}
+
+tr:nth-child(odd){
+  background-color: rgba(26, 68, 206, 0.24);
+}
+
+
+tr:nth-child(even){
+  background-color: #e9ecef;
+}
