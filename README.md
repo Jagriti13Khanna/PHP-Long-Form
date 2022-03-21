@@ -1,12 +1,10 @@
 # PHP Long Form
 
+This is a PHP generated long form which gets replaced with the result once the form is submitted. 
+
 ## Table of contents
-* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
-
-## Introduction
-This is a PHP generated long form which gets replaced with the result once the form is submitted. 
 
 ## Technologies 
 * HTML5
