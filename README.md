@@ -3,10 +3,10 @@
 This is a PHP generated long form which gets replaced with the result once the form is submitted. 
 
 ## Table of contents
-* [Technologies](#technologies)
+* [Languages](#languages)
 * [Setup](#setup)
 
-## Technologies 
+## Languages 
 * HTML5
 * CSS3
 * PHP
